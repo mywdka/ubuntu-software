@@ -13,6 +13,7 @@ install () {
 
 # Apt
 install "make" "apt install"
+install "libcurl4" "apt install"
 install "curl" "apt install"
 install "wget" "apt install"
 install "screen" "apt install"
